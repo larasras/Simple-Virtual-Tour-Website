@@ -14,6 +14,7 @@
   </ol>
 </details>
 
+🐳 Live demo of site: [Beach-Virtual-Tour](https://larasras.github.io/Simple-Virtual-Tour/)
 
 
 <!-- ABOUT THE PROJECT -->
